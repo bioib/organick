@@ -3,7 +3,7 @@
 @tailwind components;
 
 @layer components {
-    .nav-link {
-        @apply p-8;
-    }
+  .nav-link {
+    @apply px-12 py-4 font-bold;
+  }
 }
